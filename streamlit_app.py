@@ -72,7 +72,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
     "texts": ["치킨은 나날이 비싸지는 메뉴입니다"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
+    #   "videos": ["https://www.youtube.com/watch?v=rqvDqRKO4dE"]
      },
 }
 
